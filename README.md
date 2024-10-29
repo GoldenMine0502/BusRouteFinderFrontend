@@ -10,7 +10,7 @@
 
 출발지와 도착지는 무조건 정류장만 설정 가능합니다. 위 예시는 인천대학교 공과대학 > 부평역까지 가는 버스 최단 경로를 제공합니다.
 
-데이터 기준: 2022/09
+데이터 기준: 2022/09
 
 <img width="487" alt="image" src="https://github.com/GoldenMine0502/BusRouteFinderFrontend/assets/27873716/2d6a3662-60e3-48cb-9ca6-009e78d65348">
 
